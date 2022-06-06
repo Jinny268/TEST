@@ -1,5 +1,5 @@
-a="Have a nice day!"
-print(a)
+hnd="Have a nice day!"
+print(hnd)
 print("HAVE A NICE DAY!")
 print("have a nice day!")
 
